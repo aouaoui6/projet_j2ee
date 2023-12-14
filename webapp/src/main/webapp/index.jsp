@@ -1,2 +1,2 @@
-<h1>Welcome to DevOps ISETKR 2023 !!! Deploiement avec GIT-->Github-->jenkins-->webapp.war-->container Tomcat </h1>
+<h1>Welcome to DevOps ISETKR 2023 !!! Deploiement automatique jenkins-->ansible-->tomcat N.GRASSA </h1>
 
